@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  OA_Test_OnePoint
+
+  Created by Ahmed OULEDZIAN on 07/07/2018.
+  Copyright © 2018 Ahmed OULEDZIAN. All rights reserved.
+*/
+
+"No data received!" = "No data received!";
+"Error parsing JSON!" = "Error parsing JSON!";
